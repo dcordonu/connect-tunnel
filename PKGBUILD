@@ -1,7 +1,7 @@
 # Maintainer: dcordonu
 
 pkgname=connect-tunnel
-pkgver=12.4.0.680
+pkgver=12.41.01037
 pkgrel=1
 pkgdesc="SonicWALL Connect Tunnel VPN Client"
 arch=('x86_64')
